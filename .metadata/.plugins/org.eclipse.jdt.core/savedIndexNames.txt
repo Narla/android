@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\Users\Makov\android\.metadata\.plugins\org.eclipse.jdt.core
+280184328.index
+1284074322.index
+3834960883.index
+3410438916.index
